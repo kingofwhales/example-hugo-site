@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://kingofwhales.github.io/example-hugo-site"
 themesDir = "./"
 languageCode = "en-us"
 publishDir='docs'
